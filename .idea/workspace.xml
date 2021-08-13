@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="80da2e67-8ce1-4755-958d-c9f33d9ea2ed" name="Default Changelist" comment="Default Changelist" />
+=======
+    <list default="true" id="80da2e67-8ce1-4755-958d-c9f33d9ea2ed" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> ec1d4cb (Initial commit)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,21 +29,45 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1v3qRaK5Wp6dxt73DnGJQtOkRuJ" />
+=======
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/第七章/7.1.3求模运算符.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/第七章/7.2.6避免无限循环.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/第七章/7.2.4使用break退出循环.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/第七章/7.3.3使用用户输入来填充字典.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1v3qRaK5Wp6dxt73DnGJQtOkRuJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> ec1d4cb (Initial commit)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
+=======
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+>>>>>>> ec1d4cb (Initial commit)
     <property name="NEW_TOOLWINDOW_STRIPE_DEFAULTS" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.6.3.2遍历字典中所有键二">
+=======
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager" selected="Python.5.3.3if-eif-else结构">
+>>>>>>> ec1d4cb (Initial commit)
     <configuration name="5.3.3if-eif-else结构" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -45,9 +75,15 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第五章" />
       <option name="IS_MODULE_SDK" value="true" />
+=======
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject2/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第五章" />
+      <option name="IS_MODULE_SDK" value="false" />
+>>>>>>> ec1d4cb (Initial commit)
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -106,9 +142,15 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.6.3.2遍历字典中所有键二" />
         <item itemvalue="Python.6.3.1遍历字典" />
         <item itemvalue="Python.5.3.3if-eif-else结构" />
+=======
+        <item itemvalue="Python.5.3.3if-eif-else结构" />
+        <item itemvalue="Python.6.3.2遍历字典中所有键二" />
+        <item itemvalue="Python.6.3.1遍历字典" />
+>>>>>>> ec1d4cb (Initial commit)
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +176,50 @@
       <workItem from="1628544013401" duration="551000" />
       <workItem from="1628546819129" duration="78000" />
       <workItem from="1628547066201" duration="555000" />
+<<<<<<< HEAD
     </task>
+=======
+      <workItem from="1628865759062" duration="775000" />
+      <workItem from="1628866575304" duration="32000" />
+      <workItem from="1628866751567" duration="3258000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1628866030949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628866030949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1628866254028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628866254028</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1628866416555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628866416555</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1628866848230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628866848230</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1628883849575</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628883849576</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+>>>>>>> ec1d4cb (Initial commit)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,8 +237,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$5_3_3if_eif_else.coverage" NAME="5.3.3if-eif-else结构 覆盖结果" MODIFIED="1628539887052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第五章" />
+=======
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Default Changelist" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$5_3_3if_eif_else.coverage" NAME="5.3.3if-eif-else结构 覆盖结果" MODIFIED="1628866445293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第五章" />
+>>>>>>> ec1d4cb (Initial commit)
     <SUITE FILE_PATH="coverage/Python$6_3_1.coverage" NAME="6.3.1遍历字典 覆盖结果" MODIFIED="1628539860265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第六章" />
     <SUITE FILE_PATH="coverage/Python$6_3_2.coverage" NAME="6.3.2遍历字典中所有键二 覆盖结果" MODIFIED="1628539956933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第六章" />
   </component>
